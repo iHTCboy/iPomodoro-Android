@@ -6,4 +6,4 @@ iPomodoro(爱番茄)。🍅 番茄工作法是一种时间管理法方法，在�
 
 
 ## iPomodoro(爱番茄🍅)
-爱番茄是一个简单和有效的番茄工作法的应用，灵感来自`我要当学霸`app，此app已经下架，所以，想以此为基础，开发Android/iOS/macOS版本，并且开源，Android版本免费打赏机制，iOS/macOS版本计划收费1人民币。
+爱番茄是一个简单和有效的番茄工作法的应用，灵感来自`我要当学霸`App 和 macOS版`Promodoro Timer`，这2个App已经下架，所以，想以此为基础，开发Android/iOS/macOS版本，并且开源，Android版本免费打赏机制，iOS/macOS版本计划收费1人民币(苹果开发账号费)。
